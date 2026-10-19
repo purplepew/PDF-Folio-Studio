@@ -1,0 +1,6 @@
+{
+  "name": "Folio Studio — PDF Page Manager",
+  "description": "Precision web-based PDF page management and manipulation workspace for organizing, rotating, duplicating, importing, and exporting multi-page PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
